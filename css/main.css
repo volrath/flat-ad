@@ -8,6 +8,7 @@ body { font-size: 1.6rem; background-color: #efe8f5; }
 h1, h2, h3, h4, h5 { font-family: 'Shadows Into Light', sans-serif; }
 b { font-family: 'FreeSans Bold', sans-serif }
 i { font-style: italic }
+a, a:link, a:visited, a:hover, a:active { color: #8845e0 }
 
 .arrow {
     border: solid black;
