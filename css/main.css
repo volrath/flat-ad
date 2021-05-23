@@ -26,7 +26,7 @@ a, a:link, a:visited, a:hover, a:active { color: #8845e0 }
 
 #us {
     height: 90%;
-    background-image: linear-gradient(to bottom, #efe8f5, #8845e0), url('images/berlin.jpg');
+    background-image: linear-gradient(to bottom, #efe8f5, #8845e0), url('images/berlin.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
