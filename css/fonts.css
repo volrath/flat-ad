@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'FreeSans';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/FreeSans.otf') format('opentype'),
+         url('/fonts/FreeSans.ttf') format('truetype');
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'FreeSans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/FreeSansBold.otf') format('opentype'),
+         url('/fonts/FreeSansBold.ttf') format('truetype');
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Covered By Your Grace';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/CoveredByYourGrace-Regular.ttf') format('truetype');
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Sacramento';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/Sacramento-Regular.ttf') format('truetype');
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Shadows Into Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/ShadowsIntoLightTwo-Regular.ttf') format('truetype');
+    font-display: swap;
+}
